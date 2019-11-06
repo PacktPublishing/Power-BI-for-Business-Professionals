@@ -1,33 +1,32 @@
 # Learning IPython for Interactive Computing and Data Visualization [Video]
-This is the code repository for [Learning IPython for Interactive Computing and Data Visualization [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-vid?utm_source=github&utm_medium=repository&utm_campaign=9781789805277), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Power BI for Business Professionals [Video]](https://www.packtpub.com/data/power-bi-for-business-professionals-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-This course is a beginner-friendly guide to the Python data analysis platform. After an introduction to the Python language, IPython, and Jupyter Notebook, you will learn how to analyze and visualize data on real-world examples, how to create graphical user interfaces for image processing in Notebook, and how to perform fast numerical computations for scientific simulations with NumPy, Numba, Cython, and ipyparallel. By the end of this course, you will be able to perform in-depth analyses of all sorts of data.
+Make the most of Power BI and get the best possible outcomes from your business data by preparing effective data visualizations. Via thorough business analyses, make your processes efficient and result-oriented.	
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Install Anaconda and code in Python in Jupyter Notebook 
-<LI>Load and explore datasets interactively&nbsp; 
-<LI>Perform complex data manipulations effectively with pandas 
-<LI>Create engaging data visualizations with matplotlib and seaborn 
-<LI>Simulate mathematical models with NumPy 
-<LI>Visualize and process images interactively in Jupyter Notebook with scikit-image 
-<LI>Accelerate your code with Numba, Cython, and IPython.parallel&nbsp; 
-<LI>Extend the Notebook interface with HTML, JavaScript, and D3 </LI></UL></DIV>
+<LI>Importance of installing Power BI updates regularly to keep up with the rapid pace of change
+<LI>Import data from databases, spreadsheets, and other data sources like a professional data scientist
+<LI>Serve the needs of users, analysts, and colleagues with well-designed reports, dashboards, and mobile applications
+<LI>Deploy and publish with Power BI Service
+<LI>Steal a march on your competitors by customizing Power BI to provide unique data visualizations and unique insights
+<LI>Gain insights quickly by the effective use of custom data visualizations </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basics of Python
+Familiarity with Power BI would be an advantage
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Python 3.x
-Jupyter Notebook
+<UL><LI>Power BI Desktop is only available on Windows
+<LI>Virtually all modern graphical browsers such as Firefox and Chrome are suitable for use with the Power BI Service
+  <LI>R (Microsoft R Client and RStudio recommended)</LI></UL>
 
 ## Related Products
-* [Beginning Data Science with Python and Jupyter [eLearning]](https://www.packtpub.com/big-data-and-business-intelligence/beginning-data-science-python-and-jupyter-elearning?utm_source=github&utm_medium=repository&utm_campaign=9781789532449)
+* [Power BI Masterclass - Beginners to Advanced [Video]](https://www.packtpub.com/big-data-and-business-intelligence/power-bi-masterclass-beginners-advanced-video)
 
-* [Building Web Applications with TypeScript, Angular and React [eLearning]](https://www.packtpub.com/web-development/building-web-applications-typescript-angular-and-react-elearning?utm_source=github&utm_medium=repository&utm_campaign=9781789340334)
+* [Power BI Masterclass - Your Future in Data Analytics [Video]](https://www.packtpub.com/big-data-and-business-intelligence/power-bi-masterclass-your-future-data-analytics-video)
 
-* [Building Predictive Models with Machine Learning and Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/building-predictive-models-machine-learning-and-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789132113)
+* [Microsoft Power BI Online [Video]](https://www.packtpub.com/big-data-and-business-intelligence/microsoft-power-bi-online-video)
 
