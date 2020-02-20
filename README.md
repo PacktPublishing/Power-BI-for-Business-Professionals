@@ -1,4 +1,4 @@
-# Learning IPython for Interactive Computing and Data Visualization [Video]
+# Power BI for Business Professionals [Video]
 This is the code repository for [Power BI for Business Professionals [Video]](https://www.packtpub.com/data/power-bi-for-business-professionals-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Make the most of Power BI and get the best possible outcomes from your business data by preparing effective data visualizations. Via thorough business analyses, make your processes efficient and result-oriented.	
