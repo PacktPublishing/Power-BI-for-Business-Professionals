@@ -33,3 +33,7 @@ This course has the following software requirements:<br/>
 
 * [Microsoft Power BI Online [Video]](https://www.packtpub.com/big-data-and-business-intelligence/microsoft-power-bi-online-video)
 
+## Please Note: 
+The data are contained in Excel's internal data model and are not visible from a spreadsheet. You can see the data by opening the PowerPivot graphical interface or by creating a Pivot table. The data can, of course, also be imported into Power BI.
+These files are not empty.
+
