@@ -1,10 +1,11 @@
-
-
-
 # Power BI for Business Professionals [Video]
 This is the code repository for [Power BI for Business Professionals [Video]](https://www.packtpub.com/data/power-bi-for-business-professionals-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Make the most of Power BI and get the best possible outcomes from your business data by preparing effective data visualizations. Via thorough business analyses, make your processes efficient and result-oriented.	
+
+# Please Note: 
+The data are contained in Excel's internal data model and are not visible from a spreadsheet. You can see the data by opening the PowerPivot graphical interface or by creating a Pivot table. The data can, of course, also be imported into Power BI.
+These files are not empty.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
@@ -33,7 +34,5 @@ This course has the following software requirements:<br/>
 
 * [Microsoft Power BI Online [Video]](https://www.packtpub.com/big-data-and-business-intelligence/microsoft-power-bi-online-video)
 
-## Please Note: 
-The data are contained in Excel's internal data model and are not visible from a spreadsheet. You can see the data by opening the PowerPivot graphical interface or by creating a Pivot table. The data can, of course, also be imported into Power BI.
-These files are not empty.
+
 
