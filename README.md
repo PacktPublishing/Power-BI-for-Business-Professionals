@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
-
 # Power BI for Business Professionals [Video]
 This is the code repository for [Power BI for Business Professionals [Video]](https://www.packtpub.com/data/power-bi-for-business-professionals-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
